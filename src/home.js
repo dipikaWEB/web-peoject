@@ -14,7 +14,7 @@ function Home(){
             <img src={image} className='img'></img>
             <div className='row'>
                 <div className='col-md-4'>
-                    <h2>our flower</h2>
+                    <h2>our plant</h2>
                 </div>
             </div>
 </div>
